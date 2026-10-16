@@ -17,6 +17,29 @@
 
 ---
 
+## 🙋‍♂️ Who Am I?
+
+<div align="center">
+
+| | |
+|:--|:--|
+| 📛 **Name** | Wagnew Nigussie |
+| 🌍 **From** | Ethiopia 🇪🇹 |
+| 🎓 **Studying** | Software Engineering |
+| 💼 **Role** | Aspiring Full-Stack Developer |
+| 🗣️ **Languages** | አማርኛ (Amharic) · English |
+| 🎯 **Dream** | Build software that solves real problems for real people |
+| ⚡ **Superpower** | I never stop learning, and I finish what I start |
+| ☕ **Fuel** | Coffee, curiosity and a lot of debugging |
+
+</div>
+
+> 👋 **My story:** I started coding because I love turning ideas into things people can actually use.
+> Every project I build teaches me something new, and I'm just getting started.
+> My goal is to grow from a student into a developer who builds useful, high-quality software.
+
+---
+
 ## 👨‍💻 About Me
 
 ```js
@@ -127,6 +150,22 @@ const wagnew = {
 <div align="center">
 
 ### 🔁 Learn. Build. Improve. Repeat. 🚀
+
+</div>
+
+---
+
+## 👋 Say Hi!
+
+<div align="center">
+
+Visited my profile? I'd love to know who you are! 😊
+
+**Leave your name, a message, or a tip for a beginner developer in my guestbook.**
+
+[![Sign the Guestbook](https://img.shields.io/badge/📖_Sign_the_Guestbook-Say_Hi!-764ba2?style=for-the-badge)](https://github.com/wagnew-nigussie/wagnew-nigussie/issues/new?title=👋+Hello+from+...&body=Hi+Wagnew!+My+name+is+...+and+I+am+from+...)
+
+<sub>Click the button, write your name, and submit. Your message will appear in the repo's Issues tab.</sub>
 
 </div>
 
