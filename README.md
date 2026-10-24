@@ -2,11 +2,11 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Wagnew%20Nigussie&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Aspiring%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%" alt="header"/>
-https://wagnew-nigussie.github.io/portfolio/
+
 <a href="https://github.com/wagnew-nigussie">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=764BA2&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Wagnew+%F0%9F%91%8B;Software+Engineering+Student+%F0%9F%8E%93;I+learn+by+building+real+projects+%F0%9F%9A%80;Learn.+Build.+Improve.+Repeat.+%F0%9F%94%81" alt="Typing SVG" />
 </a>
-
+https://wagnew-nigussie.github.io/portfolio/
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=wagnew-nigussie&label=Profile%20Views&color=764ba2&style=for-the-badge)
