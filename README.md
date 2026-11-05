@@ -1,172 +1,113 @@
-<!-- ═════════════ HEADER ═════════════ -->
+<!-- ═══════════════════════ HERO ═══════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Wagnew%20Nigussie&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Aspiring%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=230&section=header&text=Wagnew%20Nigussie&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%E2%80%A2%20Aspiring%20Full-Stack%20Developer&descAlignY=60&descSize=18" width="100%" alt="Wagnew Nigussie"/>
 
 <a href="https://github.com/wagnew-nigussie">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=764BA2&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Wagnew+%F0%9F%91%8B;Software+Engineering+Student+%F0%9F%8E%93;I+learn+by+building+real+projects+%F0%9F%9A%80;Learn.+Build.+Improve.+Repeat.+%F0%9F%94%81" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1200&color=764BA2&center=true&vCenter=true&width=720&height=50&lines=ሰላም!+Hi%2C+I'm+Wagnew+%F0%9F%91%8B;I+turn+ideas+into+working+software+%F0%9F%92%A1;Student+today.+Developer+in+the+making.+%F0%9F%8C%B1;Learn.+Build.+Improve.+Repeat.+%F0%9F%94%81" alt="Typing animation"/>
 </a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=wagnew-nigussie&label=Profile%20Views&color=764ba2&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/wagnew-nigussie?label=Followers&style=for-the-badge&color=667eea&logo=github)
-![Stars](https://img.shields.io/github/stars/wagnew-nigussie?label=Stars&style=for-the-badge&color=f5a623&logo=starship)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-764ba2?style=for-the-badge)](https://wagnew-nigussie.github.io/portfolio)
+[![Projects](https://img.shields.io/badge/🚀_Projects-667eea?style=for-the-badge)](https://github.com/wagnew-nigussie?tab=repositories)
+[![Feedback](https://img.shields.io/badge/💬_Give_Feedback-f5a623?style=for-the-badge)](https://github.com/wagnew-nigussie/wagnew-nigussie/issues/new?title=💬+Feedback&body=Hi+Wagnew!+Here+is+my+feedback:+)
+
+![Views](https://komarev.com/ghpvc/?username=wagnew-nigussie&label=Profile%20Views&color=764ba2&style=flat-square)
+![Followers](https://img.shields.io/github/followers/wagnew-nigussie?label=Followers&style=flat-square&color=667eea&logo=github)
+![Location](https://img.shields.io/badge/📍_Ethiopia-009639?style=flat-square)
+![Status](https://img.shields.io/badge/🟢_Open_to_learn_%26_collaborate-success?style=flat-square)
 
 </div>
 
 ---
 
-## 🙋‍♂️ Who Am I?
+## 👋 About Me
 
-  👉 https://wagnew-nigussie.github.io/portfolio
-<div align="center">
+I'm a **Software Engineering student from Ethiopia 🇪🇹** who loves turning ideas into software people can actually use.
+
+I'm early in my journey, and I'm proud of it. I learn by **building real projects**, breaking things, fixing them, and shipping again. Every project teaches me something new.
 
 | | |
 |:--|:--|
-| 📛 **Name** | Wagnew Nigussie |
-| 🌍 **From** | Ethiopia 🇪🇹 |
 | 🎓 **Studying** | Software Engineering |
-| 💼 **Role** | Aspiring Full-Stack Developer |
+| 💼 **Aiming for** | Full-Stack Web Developer |
 | 🗣️ **Languages** | አማርኛ (Amharic) · English |
+| 🌱 **Learning now** | React · Next.js · Laravel · Data Structures & Algorithms |
 | 🎯 **Dream** | Build software that solves real problems for real people |
-| ⚡ **Superpower** | I never stop learning, and I finish what I start |
-| ☕ **Fuel** | Coffee, curiosity and a lot of debugging |
+| ☕ **Fuel** | Coffee, curiosity, and a lot of debugging |
 
-</div>
-
-> 👋 **My story:** I started coding because I love turning ideas into things people can actually use.
-> Every project I build teaches me something new, and I'm just getting started.
-> My goal is to grow from a student into a developer who builds useful, high-quality software.
+> 💬 *"To become a skilled software developer by continuously learning, building useful applications, and solving real-world problems."*
 
 ---
 
-## 👨‍💻 About Me
-
-```js
-const wagnew = {
-  role: "Software Engineering Student 🎓",
-  status: "Beginner developer, growing every day 🌱",
-  interests: ["Web Development", "Databases", "Problem Solving"],
-  currentlyLearning: ["React", "Next.js", "Laravel", "Data Structures & Algorithms"],
-  lookingFor: "Projects to build, people to learn from, and opportunities to grow 🤝",
-  funFact: "I learn best by building things that actually work ⚡",
-};
-```
-
-- 🎓 Studying **Software Engineering**
-- 🌱 Exploring both **frontend** and **backend** development
-- 💻 Passionate about **web development, databases, and problem-solving**
-- 🚀 Building **practical projects** to gain real-world experience
-
----
-
-## 🛠️ Skills & Technologies
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-### ⚙️ Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### 🧠 Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)
-
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,php,laravel,java,cpp,mysql,postgres,git,github,vscode,linux&perline=9" alt="Tech stack"/>
 
 </div>
 
-### 📚 Computer Science Foundations
-
-| Area | Focus |
-|------|-------|
-| 🧮 **Algorithms & Data Structures** | Sharpening problem-solving and efficient thinking |
-| 🧩 **Object-Oriented Programming** | Writing clean, reusable, well-structured code |
+| 🎨 Frontend | ⚙️ Backend | 🗄️ Database | 🧰 Tools |
+|:--|:--|:--|:--|
+| HTML · CSS · JavaScript · TypeScript | PHP · Laravel | MySQL | Git · GitHub |
+| React · Next.js *(learning)* | Node.js · Express | PostgreSQL | VS Code · Linux |
 
 ---
 
-## 🚀 My Projects
+## 🚀 Projects
+
+|  | Project | What it does | Language · Stars |
+|:-:|:--|:--|:--|
+| 💰 | [**EthioEqub Digital Management System**](https://github.com/wagnew-nigussie/EthioEqub-Digital-Management-System) | Digitizes Equb (traditional Ethiopian savings groups): members, contributions and payouts | ![lang](https://img.shields.io/github/languages/top/wagnew-nigussie/EthioEqub-Digital-Management-System?style=flat-square&color=764ba2) ![stars](https://img.shields.io/github/stars/wagnew-nigussie/EthioEqub-Digital-Management-System?style=flat-square&logo=github&color=f5a623) |
+| 👥 | [**HRMS Project**](https://github.com/wagnew-nigussie/HRMS-project) | Human resource management: employee records and attendance | ![lang](https://img.shields.io/github/languages/top/wagnew-nigussie/HRMS-project?style=flat-square&color=764ba2) ![stars](https://img.shields.io/github/stars/wagnew-nigussie/HRMS-project?style=flat-square&logo=github&color=f5a623) |
+| 📚 | [**Library Management System**](https://github.com/wagnew-nigussie/library-managment-system) | Books, members, borrowing and returns | ![lang](https://img.shields.io/github/languages/top/wagnew-nigussie/library-managment-system?style=flat-square&color=764ba2) ![stars](https://img.shields.io/github/stars/wagnew-nigussie/library-managment-system?style=flat-square&logo=github&color=f5a623) |
+| 🏠 | [**Real Estate Prediction**](https://github.com/wagnew-nigussie/real-estate-prediction) | Predicts real estate values so anyone can use it and save effort | ![lang](https://img.shields.io/github/languages/top/wagnew-nigussie/real-estate-prediction?style=flat-square&color=764ba2) ![stars](https://img.shields.io/github/stars/wagnew-nigussie/real-estate-prediction?style=flat-square&logo=github&color=f5a623) |
+| 🏛️ | [**EthioCivic Hub**](https://github.com/wagnew-nigussie/EthioCivic-Hub-project) | Solves citizens' everyday problems and saves their money and effort | ![lang](https://img.shields.io/github/languages/top/wagnew-nigussie/EthioCivic-Hub-project?style=flat-square&color=764ba2) ![stars](https://img.shields.io/github/stars/wagnew-nigussie/EthioCivic-Hub-project?style=flat-square&logo=github&color=f5a623) |
+| 🌐 | [**Portfolio**](https://github.com/wagnew-nigussie/portfolio) | My personal website: who I am and what I build | ![lang](https://img.shields.io/github/languages/top/wagnew-nigussie/portfolio?style=flat-square&color=764ba2) ![stars](https://img.shields.io/github/stars/wagnew-nigussie/portfolio?style=flat-square&logo=github&color=f5a623) |
 
 <div align="center">
 
-| | Project | What it does |
-|:-:|:--------|:-------------|
-| 🎓 | **Student Management System** | Manages student information and academic records |
-| 🏨 | **Hotel Management System** | Handles rooms, reservations, and guests |
-| 📚 | **Library Management System** | Tracks books, members, borrowing, and returns |
-| 👥 | **HR Management System** | Manages employee records and attendance |
-| 🧮 | **Calculator** | Practice in programming and web development |
-| 💼 | **Connect Hub Jobs** | Explores job opportunities and recruitment features |
-
-👉 **[Browse all my repositories](https://github.com/wagnew-nigussie?tab=repositories)**
+[![All Projects](https://img.shields.io/badge/👉_See_all_repositories-764ba2?style=for-the-badge)](https://github.com/wagnew-nigussie?tab=repositories)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🧭 Learning Roadmap
+
+| Phase | Focus | Status |
+|:-:|:--|:-:|
+| **1** | HTML · CSS · JavaScript · PHP · MySQL | ✅ Done |
+| **2** | React · TypeScript · Laravel · Git workflow | 🔄 In progress |
+| **3** | Next.js · REST APIs · Authentication | 🎯 Next |
+| **4** | Data Structures & Algorithms · Testing | 🎯 Planned |
+| **5** | Deployment · Team projects · Open source | 🎯 Planned |
+
+---
+
+## 💬 Your Feedback Matters
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=wagnew-nigussie&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnew-nigussie&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+### Thanks for visiting! 💜
+I'm a student, so **every comment, tip, and code review helps me grow.**
+Pick one below. It takes less than a minute.
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=wagnew-nigussie&theme=radical&hide_border=true" alt="GitHub Streak" />
+[![Say Hi](https://img.shields.io/badge/👋_Say_Hi-Sign_the_Guestbook-764ba2?style=for-the-badge)](https://github.com/wagnew-nigussie/wagnew-nigussie/issues/new?title=👋+Hello+from+...&body=Hi+Wagnew!+My+name+is+...+and+I+am+from+...)
+[![Review](https://img.shields.io/badge/🔍_Review_My_Work-Give_Feedback-667eea?style=for-the-badge)](https://github.com/wagnew-nigussie/wagnew-nigussie/issues/new?title=💬+Feedback&body=Hi+Wagnew!+Here+is+my+feedback:+)
+
+[![Tip](https://img.shields.io/badge/💡_Share_a_Tip-For_Beginners-f5a623?style=for-the-badge)](https://github.com/wagnew-nigussie/wagnew-nigussie/issues/new?title=💡+Tip+for+a+beginner&body=My+tip+is:+)
+[![Collaborate](https://img.shields.io/badge/🤝_Collaborate-Propose_an_Idea-009639?style=for-the-badge)](https://github.com/wagnew-nigussie/wagnew-nigussie/issues/new?title=🤝+Collaboration+idea&body=Hi+Wagnew!+I+have+an+idea:+)
+
+<sub>Your message appears in this repo's **Issues** tab. Kind, constructive words are always welcome 🙏</sub>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=wagnew-nigussie&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" />
-
-</div>
-
----
-
-## 🎯 My Goal
-
-> *"To become a skilled software developer by continuously learning, building useful applications, and solving real-world problems."*
-
-<div align="center">
-
-### 🔁 Learn. Build. Improve. Repeat. 🚀
-
-</div>
-
----
-
-## 👋 Say Hi!
-
-<div align="center">
-
-Visited my profile? I'd love to know who you are! 😊
-
-**Leave your name, a message, or a tip for a beginner developer in my guestbook.**
-
-[![Sign the Guestbook](https://img.shields.io/badge/📖_Sign_the_Guestbook-Say_Hi!-764ba2?style=for-the-badge)](https://github.com/wagnew-nigussie/wagnew-nigussie/issues/new?title=👋+Hello+from+...&body=Hi+Wagnew!+My+name+is+...+and+I+am+from+...)
-
-<sub>Click the button, write your name, and submit. Your message will appear in the repo's Issues tab.</sub>
+⭐ **Like what you see?** Star a repository and follow me. It really motivates me!
 
 </div>
 
@@ -177,7 +118,8 @@ Visited my profile? I'd love to know who you are! 😊
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-wagnew--nigussie-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wagnew-nigussie)
-<!-- Add your own links below by removing the comment markers and filling in your details:
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-764ba2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://wagnew-nigussie.github.io/portfolio)
+<!-- Add your own links by removing the comment markers and filling in your details:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-USERNAME)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
 [![Telegram](https://img.shields.io/badge/Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR-USERNAME)
@@ -185,9 +127,8 @@ Visited my profile? I'd love to know who you are! 😊
 
 <br/>
 
-### 💜 Thanks for visiting my profile! ⭐
-*If you like what you see, leave a star on a repo, it means a lot!*
+### 🔁 Learn. Build. Improve. Repeat. 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,50:667eea,100:f093fb&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
