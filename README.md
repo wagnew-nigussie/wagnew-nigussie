@@ -1,11 +1,7 @@
 <!-- ═══════════════════════ HERO ═══════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=230&section=header&text=Wagnew%20Nigussie&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%E2%80%A2%20Aspiring%20Full-Stack%20Developer&descAlignY=60&descSize=18" width="100%" alt="Wagnew Nigussie"/>
-
-<a href="https://github.com/wagnew-nigussie">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1200&color=764BA2&center=true&vCenter=true&width=720&height=50&lines=ሰላም!+Hi%2C+I'm+Wagnew+%F0%9F%91%8B;I+turn+ideas+into+working+software+%F0%9F%92%A1;Student+today.+Developer+in+the+making.+%F0%9F%8C%B1;Learn.+Build.+Improve.+Repeat.+%F0%9F%94%81" alt="Typing animation"/>
-</a>
+<img src="assets/hero.svg" width="100%" alt="Wagnew Nigussie, Software Engineering Student and Aspiring Full-Stack Developer"/>
 
 <br/>
 
