@@ -1,7 +1,7 @@
 <!-- ═══════════════════════ HERO ═══════════════════════ -->
 <!-- ═════════════ HEADER ═════════════ -->
 <div align="center">
- 
+ <img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,50:764ba2,100:f093fb&height=260&section=header&text=Wagnew%20Nigussie&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Software%20Engineering%20Student%20%E2%80%A2%20Aspiring%20Full-Stack%20Developer&descAlignY=62&descSize=18" width="100%" alt="Wagnew Nigussie"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Wagnew%20Nigussie&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Aspiring%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%" alt="header"/>
  
 <a href="https://github.com/wagnew-nigussie">
