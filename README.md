@@ -1,6 +1,5 @@
 <!-- ═══════════════════════ HERO ═══════════════════════ -->
-<div align="center">
-align="center"> <img src="https://capsule-render.vercel.app/api?
+<div align="center" <img src="https://capsule-render.vercel.app/api?>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=230&section=header&text=Wagnew%20Nigussie&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%E2%80%A2%20Aspiring%20Full-Stack%20Developer&descAlignY=60&descSize=18" width="100%" alt="Wagnew Nigussie"/>
 
 <a href="https://github.com/wagnew-nigussie">
