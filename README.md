@@ -77,12 +77,6 @@ I believe the most effective way to master software engineering is through **han
 
 <br/><br/>
 
-<!-- 📈 ALL PROJECTS YEARLY CONTRIBUTION HEATMAP -->
-<h4>🔥 Year-Round Contribution Heatmap Across All Projects</h4>
-
-<a href="https://github.com/wagnew-nigussie">
-  <img src="https://ghchart.rshah.org/764ba2/wagnew-nigussie" alt="Wagnew's All Projects Contribution Graph" width="100%" />
-</a>
 
 </div>
 
@@ -141,11 +135,11 @@ Here is a spotlight on some of the real-world software applications I've enginee
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     🧭 ROADMAP & OBJECTIVES                   -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-## 🧭 Engineering Roadmap
+## 🧭 my Roadmap
 
 ```text
-[Phase 1] 🟢 Core Web & Server Foundations (HTML, CSS, JS, PHP, MySQL)          -> Completed
-[Phase 2] 🔄 Modern Full-Stack (React 19, TypeScript, Express, PostgreSQL)     -> Current Focus
-[Phase 3] 🎯 Production Next.js, Cloud Services, REST & GraphQL APIs           -> Next Up
-[Phase 4] 🎯 Advanced DSA, High-Concurrency Systems & CI/CD Pipelines          -> Planned
-[Phase 5] 🎯 Open Source Contributor & Scalable Microservices Architecture      -> Long-Term Vision
+[1] 🟢 Core Web & Server Foundations (HTML, CSS, JS, PHP, MySQL)          -> Completed
+[2] 🔄 Modern Full-Stack (React 19,node.js,next.js, TypeScript, Express, PostgreSQL)     -> Completed
+[3] 🎯 Production Next.js, Cloud Services, REST & GraphQL APIs           -> 
+[4] 🎯 Advanced DSA, High-Concurrency Systems & CI/CD Pipelines          -> 
+[5] 🎯 Open Source Contributor & Scalable Microservices Architecture      ->
