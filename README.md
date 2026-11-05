@@ -34,14 +34,12 @@
 <!--                        👋 ABOUT ME                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 ## 👨‍💻 About Me
-
+<h1>
 > 💡 *"Technology has the power to leapfrog barriers. My goal is to craft digital products that uplift businesses, schools, and communities across Ethiopia and beyond."*
 
 I'm a passionate **Software Engineering student from Ethiopia 🇪🇹** with an insatiable hunger for building web applications that solve practical, everyday problems.
 
-I believe the most effective way to master software engineering is through **hands-on execution** — conceptualizing architectures, wrestling with edge-case bugs, optimizing databases, and deploying real systems that people can genuinely use.
-
-Currently advancing through full-stack development with modern **React 19, TypeScript, Node.js/Express, Laravel, and PostgreSQL**, while deepening my understanding of algorithms, database internals, and scalable cloud architectures.
+I believe the most effective way to master software engineering is through **hands-on execution**modern **React 19, TypeScript, Node.js/Express, Laravel, and PostgreSQL**, while deepening my understanding of algorithms, database internals, and scalable cloud architectures.</h1>
 
 | 🚀 Quick Facts | 📌 Details |
 | :--- | :--- |
