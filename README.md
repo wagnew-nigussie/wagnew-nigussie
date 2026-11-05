@@ -6,7 +6,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=230&section=header&text=Wagnew%20Nigussie&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%E2%80%A2%20Full-Stack%20Web%20Developer&descAlignY=60&descSize=19" width="100%" alt="Wagnew Nigussie - Software Engineer"/>
 
 <a href="https://github.com/wagnew-nigussie">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=750&height=50&lines=%E1%88%B0%E1%84%85%E1%88%9D!+Hi+I'm+Wagnew+Nigussie+%F0%9F%91%8B;Software+Engineering+Student+from+Ethiopia+%F0%9F%87%AA%F0%9F%87%B9;Turning+bold+ideas+into+real%2C+working+software+%F0%9F%92%A1;Full-Stack+Architect+in+the+making+%F0%9F%9A%80;Building+solutions+that+empower+communities+%F0%9F%8C%8D;Learn.+Build.+Debug.+Ship.+Repeat.+%F0%9F%94%81" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=750&height=50&lines=%E1%88%B0%E1%84%85%E1%88%9D!+Hi%2C+I'm+Wagnew+Nigussie+%F0%9F%91%8B;Software+Engineering+Student+from+Ethiopia+%F0%9F%87%AA%F0%9F%87%B9;Turning+bold+ideas+into+real%2C+working+software+%F0%9F%92%A1;Full-Stack+Architect+in+the+making+%F0%9F%9A%80;Building+solutions+that+empower+communities+%F0%9F%8C%8D;Learn.+Build.+Debug.+Ship.+Repeat.+%F0%9F%94%81" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -15,7 +15,7 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-764ba2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://wagnew-nigussie.github.io/portfolio)
 [![Projects](https://img.shields.io/badge/🚀_Repositories-667eea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wagnew-nigussie?tab=repositories)
 [![Feedback](https://img.shields.io/badge/💬_Drop_Feedback-f5a623?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/wagnew-nigussie/wagnew-nigussie/issues/new?title=💬+Profile+Feedback&body=Hi+Wagnew!+Here+is+my+feedback:+)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wagnew-nigussie)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wagnew-nigussie-tech)
 
 <br/>
 
