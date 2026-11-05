@@ -71,9 +71,6 @@ I believe the most effective way to master software engineering is through **han
 <a href="https://github.com/wagnew-nigussie">
   <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=wagnew-nigussie&show_icons=true&theme=radical&border_radius=10&title_color=a855f7&icon_color=38bdf8&text_color=e2e8f0&bg_color=0f172a" alt="Wagnew's Overall GitHub Stats" width="49%" />
 </a>
-<a href="https://github.com/wagnew-nigussie">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=wagnew-nigussie&layout=compact&theme=radical&border_radius=10&title_color=a855f7&text_color=e2e8f0&bg_color=0f172a" alt="Wagnew's Most Used Languages" width="46%" />
-</a>
 
 <br/><br/>
 
