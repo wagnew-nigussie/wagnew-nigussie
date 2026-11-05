@@ -15,7 +15,7 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-764ba2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://wagnew-nigussie.github.io/portfolio)
 [![Projects](https://img.shields.io/badge/🚀_Repositories-667eea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wagnew-nigussie?tab=repositories)
 [![Feedback](https://img.shields.io/badge/💬_Drop_Feedback-f5a623?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/wagnew-nigussie/wagnew-nigussie/issues/new?title=💬+Profile+Feedback&body=Hi+Wagnew!+Here+is+my+feedback:+)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wagnew-nigussie)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wagnew-nigussie-tech)
 
 <br/>
 
