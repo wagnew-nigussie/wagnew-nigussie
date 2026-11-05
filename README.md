@@ -39,7 +39,7 @@
  <tr>
     <td width="58%" valign="top">
       <p>
-        ሰላም! I'm a passionate <b>Software Engineering student from Ethiopia 🇪🇹</b> with an insatiable hunger for building web applications that solve practical, everyday problems.
+        Hi! I'm a passionate <b>Software Engineering student from Ethiopia 🇪🇹</b> with an insatiable hunger for building web applications that solve practical, everyday problems.
       </p>
       <p>
         I believe the most effective way to master software engineering is through <b>hands-on execution</b> — conceptualizing architectures, wrestling with edge-case bugs, optimizing databases, and deploying real systems that people can genuinely use.
