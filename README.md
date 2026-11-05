@@ -70,13 +70,13 @@ const wagnew = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,php,laravel,nodejs,express,java,cpp,mysql,postgres,git,github,vscode,linux&perline=9&theme=dark" alt="Tech stack"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,php,laravel,nodejs,express,java,cpp,mysql,postgres,git,github,vscode,linux&perline=9&theme=dark" alt="Tech stack"/>
 
 <br/><br/>
 
 | 🎨 Frontend | ⚙️ Backend | 🗄️ Database | 🧰 Tools |
 |:-:|:-:|:-:|:-:|
-| HTML · CSS · JavaScript | PHP · Laravel | MySQL | Git · GitHub |
+| HTML · CSS · JavaScript · TypeScript | PHP · Laravel | MySQL | Git · GitHub |
 | React · Next.js *(learning)* | Node.js · Express | PostgreSQL | VS Code · Linux |
 
 </div>
@@ -103,58 +103,31 @@ const wagnew = {
 
 <table>
 <tr>
-<td align="center" width="33%">
-<h3>🎓</h3>
-<b>Student Management System</b><br/>
-<sub>Student information & academic records</sub><br/><br/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-</td>
-<td align="center" width="33%">
-<h3>🏨</h3>
-<b>Hotel Management System</b><br/>
-<sub>Rooms, reservations & guests</sub><br/><br/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-</td>
-<td align="center" width="33%">
-<h3>📚</h3>
-<b>Library Management System</b><br/>
-<sub>Books, members, borrowing & returns</sub><br/><br/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-</td>
+<td align="center" width="50%"><a href="https://github.com/wagnew-nigussie/EthioEqub-Digital-Management-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wagnew-nigussie&repo=EthioEqub-Digital-Management-System&theme=radical&hide_border=true" alt="EthioEqub-Digital-Management-System"/></a></td>
+<td align="center" width="50%"><a href="https://github.com/wagnew-nigussie/HRMS-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wagnew-nigussie&repo=HRMS-project&theme=radical&hide_border=true" alt="HRMS-project"/></a></td>
 </tr>
 <tr>
-<td align="center">
-<h3>👥</h3>
-<b>HR Management System</b><br/>
-<sub>Employee records & attendance</sub><br/><br/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-</td>
-<td align="center">
-<h3>💼</h3>
-<b>Connect Hub Jobs</b><br/>
-<sub>Job opportunities & recruitment features</sub><br/><br/>
-<img src="https://img.shields.io/badge/Web-667eea?style=flat-square&logo=googlechrome&logoColor=white"/>
-</td>
-<td align="center">
-<h3>🧮</h3>
-<b>Calculator</b><br/>
-<sub>Programming & web development practice</sub><br/><br/>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</td>
+<td align="center" width="50%"><a href="https://github.com/wagnew-nigussie/library-managment-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wagnew-nigussie&repo=library-managment-system&theme=radical&hide_border=true" alt="library-managment-system"/></a></td>
+<td align="center" width="50%"><a href="https://github.com/wagnew-nigussie/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wagnew-nigussie&repo=portfolio&theme=radical&hide_border=true" alt="portfolio"/></a></td>
+</tr>
+<tr>
+<td align="center" width="50%"><a href="https://github.com/wagnew-nigussie/real-estate-prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wagnew-nigussie&repo=real-estate-prediction&theme=radical&hide_border=true" alt="real-estate-prediction"/></a></td>
+<td align="center" width="50%"><a href="https://github.com/wagnew-nigussie/EthioCivic-Hub-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wagnew-nigussie&repo=EthioCivic-Hub-project&theme=radical&hide_border=true" alt="EthioCivic-Hub-project"/></a></td>
 </tr>
 </table>
+
+| Project | What it does | Main language |
+|:--|:--|:-:|
+| 💰 **EthioEqub Digital Management System** | Digitizes Equb (traditional Ethiopian savings groups): members, contributions, and payouts | TypeScript |
+| 👥 **HRMS Project** | Human resource management: employee records and attendance | TypeScript |
+| 📚 **Library Management System** | Tracks books, members, borrowing, and returns | JavaScript |
+| 🌐 **Portfolio** | My personal website: who I am and what I build | HTML |
+| 🏠 **Real Estate Prediction** | Predicts real estate values so anyone can use it to save effort | TypeScript |
+| 🏛️ **EthioCivic Hub** | Solves citizens' everyday problems and saves their money and effort | JavaScript |
 
 [![All Projects](https://img.shields.io/badge/👉_See_all_repositories-764ba2?style=for-the-badge)](https://github.com/wagnew-nigussie?tab=repositories)
 
 </div>
-
-<!-- TIP: change the badges in each card to the tech you really used, and wrap each project title in a link to its repo. -->
 
 <br/>
 
