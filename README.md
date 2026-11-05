@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=230&section=header&text=Wagnew%20Nigussie&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%E2%80%A2%20Aspiring%20Full-Stack%20Developer&descAlignY=60&descSize=18" width="100%" alt="Wagnew Nigussie"/>
 
 <a href="https://github.com/wagnew-nigussie">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1200&color=764BA2&center=true&vCenter=true&width=720&height=50&lines=ሰላም!+Hi%2C+I'm+Wagnew+%F0%9F%91%8B;I+turn+ideas+into+working+software+%F0%9F%92%A1;Student+today.+Developer+in+the+making.+%F0%9F%8C%B1;Learn.+Build.+Improve.+Repeat.+%F0%9F%94%81" alt="WAGNEW"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1200&color=764BA2&center=true&vCenter=true&width=720&height=50&lines=ሰላም!+Hi%2C+I'm+Wagnew+%F0%9F%91%8B;I+turn+ideas+into+working+software+%F0%9F%92%A1;Student+today.+Developer+in+the+making.+%F0%9F%8C%B1;Learn.+Build.+Improve.+Repeat.+%F0%9F%94%81" alt="Typing animation"/>
 </a>
 
 <br/>
@@ -38,6 +38,20 @@ I'm early in my journey, and I'm proud of it. I learn by **building real project
 | ☕ **Fuel** | Coffee, curiosity, and a lot of debugging |
 
 > 💬 *"To become a skilled software developer by continuously learning, building useful applications, and solving real-world problems."*
+
+---
+
+## 📈 My Progress (updates every day)
+
+<!-- STATS:START -->
+<div align="center">
+
+![Projects Built](https://img.shields.io/badge/Projects%20Built-18-764ba2?style=for-the-badge&logo=github&logoColor=white) ![Current Streak](https://img.shields.io/badge/Current%20Streak-2%20days%20%F0%9F%94%A5-f5a623?style=for-the-badge&logo=githubactions&logoColor=white) ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-4%20days-667eea?style=for-the-badge&logo=rocket&logoColor=white) ![Total Contributions](https://img.shields.io/badge/Total%20Contributions-138-009639?style=for-the-badge&logo=git&logoColor=white)
+
+<sub>🔄 Updated automatically every day · last update: 2026-11-05 (UTC)</sub>
+
+</div>
+<!-- STATS:END -->
 
 ---
 
