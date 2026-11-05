@@ -15,7 +15,7 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-764ba2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://wagnew-nigussie.github.io/portfolio)
 [![Projects](https://img.shields.io/badge/🚀_Repositories-667eea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wagnew-nigussie?tab=repositories)
 [![Feedback](https://img.shields.io/badge/💬_Drop_Feedback-f5a623?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/wagnew-nigussie/wagnew-nigussie/issues/new?title=💬+Profile+Feedback&body=Hi+Wagnew!+Here+is+my+feedback:+)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wagnew-nigussie-tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wagnew-nigussie)
 
 <br/>
 
@@ -35,33 +35,23 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 ## 👨‍💻 About Me
 
-<table border="0">
- <tr>
-    <td width="58%" valign="top">
-      <p>
-        Hi! I'm a passionate <b>Software Engineering student from Ethiopia 🇪🇹</b> with an insatiable hunger for building web applications that solve practical, everyday problems.
-      </p>
-      <p>
-        I believe the most effective way to master software engineering is through <b>hands-on execution</b> — conceptualizing architectures, wrestling with edge-case bugs, optimizing databases, and deploying real systems that people can genuinely use.
-      </p>
-      <p>
-        Currently advancing through full-stack development with modern <b>React, TypeScript, Node.js/Express, Laravel, and PostgreSQL</b>, while deepening my understanding of algorithms, database internals, and scalable cloud architectures.
-      </p>
-      <br/>
-      <b>💡 What drives me:</b> <i>"Technology has the power to leapfrog barriers. My goal is to craft digital products that uplift businesses, schools, and communities across Ethiopia and beyond."</i>
-    </td>
-    <td width="42%" valign="top">
-      <table>
-        <tr><td>🎓 <b>Major</b></td><td>Software Engineering</td></tr>
-        <tr><td>💼 <b>Role Focus</b></td><td>Full-Stack Web Developer</td></tr>
-        <tr><td>🗣️ <b>Languages</b></td><td>አማርኛ (Native) · English (Professional)</td></tr>
-        <tr><td>🌱 <b>Learning</b></td><td>React 19 · Next.js · Prisma · Cloud & DevOps</td></tr>
-        <tr><td>🎯 <b>Short Goal</b></td><td>Software Engineering Internship & Open Source</td></tr>
-        <tr><td>☕ <b>Fuel</b></td><td>Ethiopian Buna ☕, late-night code, curiosity</td></tr>
-      </table>
-    </td>
- </tr>
-</table>
+> 💡 *"Technology has the power to leapfrog barriers. My goal is to craft digital products that uplift businesses, schools, and communities across Ethiopia and beyond."*
+
+ሰላም! I'm a passionate **Software Engineering student from Ethiopia 🇪🇹** with an insatiable hunger for building web applications that solve practical, everyday problems.
+
+I believe the most effective way to master software engineering is through **hands-on execution** — conceptualizing architectures, wrestling with edge-case bugs, optimizing databases, and deploying real systems that people can genuinely use.
+
+Currently advancing through full-stack development with modern **React 19, TypeScript, Node.js/Express, Laravel, and PostgreSQL**, while deepening my understanding of algorithms, database internals, and scalable cloud architectures.
+
+| 🚀 Quick Facts | 📌 Details |
+| :--- | :--- |
+| 🎓 **Field of Study** | Software Engineering Student |
+| 💼 **Role / Focus** | Aspiring Full-Stack Web Developer |
+| 🌍 **Location** | Ethiopia 🇪🇹 |
+| 🗣️ **Languages** | አማርኛ (Amharic - Native) · English (Professional) |
+| 🌱 **Currently Mastering** | React 19 · Next.js · TypeScript · Express · PostgreSQL · Prisma |
+| 🎯 **Immediate Objective** | Software Engineering Internships & Open Source Contribution |
+| ☕ **Daily Fuel** | Ethiopian Buna ☕, Curiosity & Persistent Problem Solving |
 
 ---
 
@@ -70,26 +60,21 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 ## 📊 GitHub Analytics & Activity
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/wagnew-nigussie">
+    <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=wagnew-nigussie&show_icons=true&theme=radical&border_radius=10&title_color=a855f7&icon_color=38bdf8&text_color=e2e8f0&bg_color=0f172a" alt="Wagnew's GitHub Stats" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/wagnew-nigussie">
+    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=wagnew-nigussie&layout=compact&theme=radical&border_radius=10&title_color=a855f7&text_color=e2e8f0&bg_color=0f172a" alt="Most Used Languages" />
+  </a>
+</p>
 
-<table border="0">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=wagnew-nigussie&show_icons=true&theme=radical&hide_border=false&border_radius=12&title_color=a855f7&icon_color=38bdf8&text_color=e2e8f0&bg_color=0f172a" alt="Wagnew's GitHub Stats" width="95%"/>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnew-nigussie&layout=compact&theme=radical&hide_border=false&border_radius=12&title_color=a855f7&text_color=e2e8f0&bg_color=0f172a" alt="Most Used Languages" width="95%"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=wagnew-nigussie&theme=radical&hide_border=false&border_radius=12&background=0F172A&stroke=764BA2&ring=A855F7&fire=F59E0B&currStreakLabel=38BDF8" alt="GitHub Streak" width="98%"/>
-    </td>
-  </tr>
-</table>
-
-</div>
+<p align="center">
+  <a href="https://github.com/wagnew-nigussie">
+    <img src="https://ghchart.rshah.org/764ba2/wagnew-nigussie" alt="Wagnew's Contribution Heatmap" width="100%" />
+  </a>
+</p>
 
 ---
 
@@ -124,162 +109,15 @@
 
 Here is a spotlight on some of the real-world software applications I've engineered:
 
-<table>
-  <thead>
-    <tr>
-      <th width="40%">Project & Repository</th>
-      <th width="45%">Description & Key Highlights</th>
-      <th width="15%">Tech Stack</th>
-    </tr>
-  </thead>
-  <tbody>
-    <!-- Project 1: EthioLearn -->
-    <tr>
-      <td>
-        <b>🎓 <a href="https://github.com/wagnew-nigussie/ethiolearn">EthioLearn</a></b>
-        <br/>
-        <sub>Smart Learning & Exam Prep Platform for Ethiopian Universities</sub>
-        <br/>
-        <a href="https://github.com/wagnew-nigussie/ethiolearn">
-          <img src="https://img.shields.io/github/stars/wagnew-nigussie/ethiolearn?style=social" alt="Stars"/>
-        </a>
-      </td>
-      <td>
-        Bilingual educational ecosystem (English & Amharic) featuring structured lecture modules, MoE harmonized exam papers, interactive quiz engines, and progress analytics for college students.
-      </td>
-      <td>
-        <code>React 19</code><br/>
-        <code>TypeScript</code><br/>
-        <code>Node/Express</code><br/>
-        <code>PostgreSQL</code><br/>
-        <code>Prisma</code>
-      </td>
-    </tr>
-    <!-- Project 2: EthioEqub -->
-    <tr>
-      <td>
-        <b>💰 <a href="https://github.com/wagnew-nigussie/EthioEqub-Digital-Management-System">EthioEqub Management System</a></b>
-        <br/>
-        <sub>Digital Traditional Savings & Rotating Credit Platform</sub>
-        <br/>
-        <a href="https://github.com/wagnew-nigussie/EthioEqub-Digital-Management-System">
-          <img src="https://img.shields.io/github/stars/wagnew-nigussie/EthioEqub-Digital-Management-System?style=social" alt="Stars"/>
-        </a>
-      </td>
-      <td>
-        Modernized the cultural Ethiopian <i>Equb</i> savings group system. Automates member registration, round-based contributions, verified payout logs, and lottery winner calculations.
-      </td>
-      <td>
-        <code>PHP</code><br/>
-        <code>Laravel</code><br/>
-        <code>MySQL</code><br/>
-        <code>Bootstrap</code>
-      </td>
-    </tr>
-    <!-- Project 3: EthioCivic Hub -->
-    <tr>
-      <td>
-        <b>🏛️ <a href="https://github.com/wagnew-nigussie/EthioCivic-Hub-project">EthioCivic Hub</a></b>
-        <br/>
-        <sub>Digital Public Engagement & Citizen Support Platform</sub>
-        <br/>
-        <a href="https://github.com/wagnew-nigussie/EthioCivic-Hub-project">
-          <img src="https://img.shields.io/github/stars/wagnew-nigussie/EthioCivic-Hub-project?style=social" alt="Stars"/>
-        </a>
-      </td>
-      <td>
-        Civic-tech web portal empowering citizens to report local municipal issues, access civic documentation, and streamline communication with public institutions.
-      </td>
-      <td>
-        <code>PHP</code><br/>
-        <code>JavaScript</code><br/>
-        <code>MySQL</code><br/>
-        <code>Tailwind</code>
-      </td>
-    </tr>
-    <!-- Project 4: HRMS -->
-    <tr>
-      <td>
-        <b>👥 <a href="https://github.com/wagnew-nigussie/HRMS-project">Human Resource Management (HRMS)</a></b>
-        <br/>
-        <sub>Comprehensive Staff & Workforce Enterprise Portal</sub>
-        <br/>
-        <a href="https://github.com/wagnew-nigussie/HRMS-project">
-          <img src="https://img.shields.io/github/stars/wagnew-nigussie/HRMS-project?style=social" alt="Stars"/>
-        </a>
-      </td>
-      <td>
-        End-to-end personnel record keeping, departments management, attendance tracking, leave requests, and payroll summary computation with role authorization.
-      </td>
-      <td>
-        <code>Full-Stack</code><br/>
-        <code>PHP</code><br/>
-        <code>MySQL</code><br/>
-        <code>JavaScript</code>
-      </td>
-    </tr>
-    <!-- Project 5: Real Estate -->
-    <tr>
-      <td>
-        <b>🏠 <a href="https://github.com/wagnew-nigussie/real-estate-prediction">Real Estate Valuation Engine</a></b>
-        <br/>
-        <sub>Intelligent Property Price Estimation</sub>
-        <br/>
-        <a href="https://github.com/wagnew-nigussie/real-estate-prediction">
-          <img src="https://img.shields.io/github/stars/wagnew-nigussie/real-estate-prediction?style=social" alt="Stars"/>
-        </a>
-      </td>
-      <td>
-        Predictive modeling tool that analyzes location, square footage, bedroom specs, and market trends to deliver accurate property value forecasts.
-      </td>
-      <td>
-        <code>Python</code><br/>
-        <code>Data Analysis</code><br/>
-        <code>Web UI</code>
-      </td>
-    </tr>
-    <!-- Project 6: Library -->
-    <tr>
-      <td>
-        <b>📚 <a href="https://github.com/wagnew-nigussie/library-managment-system">Library Management System</a></b>
-        <br/>
-        <sub>Automated Cataloging, Lending & Returns</sub>
-        <br/>
-        <a href="https://github.com/wagnew-nigussie/library-managment-system">
-          <img src="https://img.shields.io/github/stars/wagnew-nigussie/library-managment-system?style=social" alt="Stars"/>
-        </a>
-      </td>
-      <td>
-        Database-driven inventory manager streamlining book cataloging, member borrowing cards, automated late return penalty alerts, and search filters.
-      </td>
-      <td>
-        <code>Java / PHP</code><br/>
-        <code>SQL</code><br/>
-        <code>HTML / CSS</code>
-      </td>
-    </tr>
-    <!-- Project 7: Portfolio -->
-    <tr>
-      <td>
-        <b>🌐 <a href="https://wagnew-nigussie.github.io/portfolio">Personal Portfolio Website</a></b>
-        <br/>
-        <sub>Interactive Showcase of Works & Engineering Journey</sub>
-        <br/>
-        <a href="https://github.com/wagnew-nigussie/portfolio">
-          <img src="https://img.shields.io/github/stars/wagnew-nigussie/portfolio?style=social" alt="Stars"/>
-        </a>
-      </td>
-      <td>
-        Fast, responsive personal developer site highlighting completed case studies, skill sets, and instant contact channels with modern micro-interactions.
-      </td>
-      <td>
-        <code>HTML5</code><br/>
-        <code>Modern CSS</code><br/>
-        <code>JavaScript</code>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| Project & Repository | Description & Key Highlights | Tech Stack |
+| :--- | :--- | :--- |
+| 🎓 [**EthioLearn**](https://github.com/wagnew-nigussie/ethiolearn)<br/>![Stars](https://img.shields.io/github/stars/wagnew-nigussie/ethiolearn?style=social) | **Smart Learning & Exam Prep Platform for Ethiopian Universities**.<br/>Bilingual ecosystem (English & Amharic) featuring structured lecture modules, MoE exit exam papers, interactive quizzes, and student analytics. | `React 19`<br/>`TypeScript`<br/>`Node/Express`<br/>`PostgreSQL`<br/>`Prisma` |
+| 💰 [**EthioEqub Management System**](https://github.com/wagnew-nigussie/EthioEqub-Digital-Management-System)<br/>![Stars](https://img.shields.io/github/stars/wagnew-nigussie/EthioEqub-Digital-Management-System?style=social) | **Digital Traditional Savings & Rotating Credit Platform**.<br/>Modernized the cultural Ethiopian *Equb* savings system: member registration, contribution records, and verified payout logs. | `PHP`<br/>`Laravel`<br/>`MySQL`<br/>`Bootstrap` |
+| 🏛️ [**EthioCivic Hub**](https://github.com/wagnew-nigussie/EthioCivic-Hub-project)<br/>![Stars](https://img.shields.io/github/stars/wagnew-nigussie/EthioCivic-Hub-project?style=social) | **Digital Public Engagement & Citizen Support Platform**.<br/>Civic-tech web portal empowering citizens to report local municipal issues and streamline public documentation. | `PHP`<br/>`JavaScript`<br/>`MySQL`<br/>`Tailwind` |
+| 👥 [**HRMS Project**](https://github.com/wagnew-nigussie/HRMS-project)<br/>![Stars](https://img.shields.io/github/stars/wagnew-nigussie/HRMS-project?style=social) | **Human Resource Management Enterprise Portal**.<br/>End-to-end staff record keeping, departments, attendance tracking, leave requests, and payroll summary computation. | `PHP`<br/>`MySQL`<br/>`JavaScript`<br/>`CSS` |
+| 🏠 [**Real Estate Valuation Engine**](https://github.com/wagnew-nigussie/real-estate-prediction)<br/>![Stars](https://img.shields.io/github/stars/wagnew-nigussie/real-estate-prediction?style=social) | **Intelligent Property Price Estimation**.<br/>Predictive modeling tool analyzing location, square footage, and market trends to deliver property value forecasts. | `Python`<br/>`Data Analysis`<br/>`Web UI` |
+| 📚 [**Library Management System**](https://github.com/wagnew-nigussie/library-managment-system)<br/>![Stars](https://img.shields.io/github/stars/wagnew-nigussie/library-managment-system?style=social) | **Automated Cataloging, Lending & Returns**.<br/>Database-driven inventory manager streamlining book cataloging, member borrowing cards, and return penalty alerts. | `Java`<br/>`PHP`<br/>`SQL`<br/>`HTML/CSS` |
+| 🌐 [**Personal Portfolio**](https://wagnew-nigussie.github.io/portfolio)<br/>![Stars](https://img.shields.io/github/stars/wagnew-nigussie/portfolio?style=social) | **Interactive Showcase of Works & Engineering Journey**.<br/>Responsive personal developer site highlighting completed case studies, skill sets, and instant contact channels. | `HTML5`<br/>`CSS3`<br/>`JavaScript` |
 
 <div align="center">
   <br/>
